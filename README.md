@@ -9,7 +9,7 @@ This repo contains 21 hands-on projects focused on data analysis, visualization,
 
 | Day | Project | Link |
 |-----|--------|------|
-| 1 | Titanic Survival Analysis | [View](./Day-01-Titanic-Survival) |
+| 1 | Titanic Survival Analysis |[ [View](./Day-01-Titanic-Survival) ](https://colab.research.google.com/drive/1bS5WTeH6iHpw0ka5MR0xdKn6U03F2NLq)|
 
 *(More projects coming soon...)*
 
